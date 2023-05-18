@@ -3,7 +3,7 @@
 
 ### 백미진🌞
 
-![Facebook Badge](https://img.shields.io/badge/Dart-54D300?style=flat-square&logo=dart&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/Dart-3DC76E?style=flat-square&logo=dart&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Flutter-C942A8?style=flat-square&logo=flutter&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/VSCode-1F90FF?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Tech Blog Badge](http://img.shields.io/badge/Github-black?style=flat-square&logo=github&link=https://zzsza.github.io/)
