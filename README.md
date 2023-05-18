@@ -2,8 +2,8 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=Hello,+I'm+mijin+Baek+ෆ˙ᵕ˙ෆ&font=Kanit&size=20)](https://git.io/typing-svg)
 
 ### 백미진👋
-<img src="https://img.shields.io/badge/dart-00C98E?style=for-the-badge&logo=dart&logoColor=white"></a>
-<img src="https://img.shields.io/badge/flutter-FFA353?style=for-the-badge&logo=flutter&logoColor=black"></a>
+<img src="https://img.shields.io/badge/dart-00C98E?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/flutter-FFA353?style=for-the-badge&logo=flutter&logoColor=black">
 <img src="https://img.shields.io/badge/visual studio code-1F90FF?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 Cross-Platform Developer
