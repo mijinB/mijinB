@@ -1,7 +1,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=Hello,+I'm+mijin+Baek+ෆ˙ᵕ˙ෆ&font=Kanit&size=20)](https://git.io/typing-svg)
 
-### 백미진👐
+### 백미진🌞
 
 ![Facebook Badge](https://img.shields.io/badge/Dart-00C98E?style=flat-square&logo=dart&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Flutter-FFA353?style=flat-square&logo=flutter&logoColor=white)
