@@ -8,7 +8,7 @@
 ![Facebook Badge](https://img.shields.io/badge/VSCode-1F90FF?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Tech Blog Badge](http://img.shields.io/badge/Github-black?style=flat-square&logo=github&link=https://zzsza.github.io/)
 <p>
-  <b>Cross-Platform Developer</b>
+  <b>[Cross-Platform Developer]</b>
   
   ⚡ Dart / Flutter
 
