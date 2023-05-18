@@ -6,10 +6,10 @@
 <img src="https://img.shields.io/badge/flutter-FFA353?style=for-the-badge&logo=flutter&logoColor=black"></a>
 <img src="https://img.shields.io/badge/visual studio code-1F90FF?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-![Facebook Badge](https://img.shields.io/badge/dart-00C98E?style=flat-square&logo=dart&logoColor=white)
-![Facebook Badge](https://img.shields.io/badge/flutter-FFA353?style=flat-square&logo=flutter&logoColor=white)
-![Facebook Badge](https://img.shields.io/badge/visual+studio code-1F90FF?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Tech Blog Badge](http://img.shields.io/badge/github-black?style=flat-square&logo=github&link=https://zzsza.github.io/)
+![Facebook Badge](https://img.shields.io/badge/Dart-00C98E?style=flat-square&logo=dart&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/Flutter-FFA353?style=flat-square&logo=flutter&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/VSCode-1F90FF?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Tech Blog Badge](http://img.shields.io/badge/Github-black?style=flat-square&logo=github&link=https://zzsza.github.io/)
 
 Cross-Platform Developer
 ⊃ Dart / Flutter
