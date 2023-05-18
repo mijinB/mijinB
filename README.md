@@ -1,5 +1,5 @@
 ### 백미진 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Cross-Platform Developer&font=Roboto Condensed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Cross-Platform Developer&font=Roboto&size=40)](https://git.io/typing-svg)
 
 Cross-Platform Developer
 ⊃ Dart / Flutter
