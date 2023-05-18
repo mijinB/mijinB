@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hi,+mijin+Baek&font=Kanit&size=20)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hi,+mijin+Baek+ෆ˙ᵕ˙ෆ&font=Kanit&size=20)](https://git.io/typing-svg)
 ### 백미진👋
 
 Cross-Platform Developer
