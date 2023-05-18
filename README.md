@@ -15,8 +15,8 @@
     </i>
   </b>
 
-  #1998.04.07<br>
-  ☆email <A href="https://www.google.co.kr/"> bmj13465@gmail.com </A>
+  1998.04.07<br>
+  ☆email&nbsp;&nbsp;<A href="https://www.google.co.kr/"> bmj13465@gmail.com </A>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmijinB&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </p>
