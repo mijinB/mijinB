@@ -4,8 +4,8 @@
 ### 백미진👋
 <img src="https://img.shields.io/badge/dart-00C98E?style=for-the-badge&logo=dart&logoColor=white"></a>
 <img src="https://img.shields.io/badge/flutter-FFA353?style=for-the-badge&logo=flutter&logoColor=black"></a>
-<img src="https://img.shields.io/badge/visual studio code-1F90FF?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<img src="https://img.shields.io/badge/visual studio code-1F90FF?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 Cross-Platform Developer
 ⊃ Dart / Flutter
 
