@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hi,+mijin+Baek+ෆ˙ᵕ˙ෆ&font=Kanit&size=20)](https://git.io/typing-svg)
 ### 백미진👋
-[!https://img.shields.io/badge/+-Dart-brightgreen]
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 Cross-Platform Developer
 ⊃ Dart / Flutter
 
