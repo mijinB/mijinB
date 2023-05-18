@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hi,+mijin+Baek+(백미진)👋&font=IBM+Plex+Sans+KR&size=20)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hi,+mijin+Baek+(백미진)👋&font=IBM+Plex+Sans+KR&size=20&weight=bold)](https://git.io/typing-svg)
 #
 
 Cross-Platform Developer
