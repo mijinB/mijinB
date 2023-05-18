@@ -9,7 +9,7 @@
 ![Tech Blog Badge](http://img.shields.io/badge/Github-black?style=flat-square&logo=github&link=https://zzsza.github.io/)
 <p>
   <b>[<i>Cross-Platform Developer</i>]<br>
-  ⚡ Dart / Flutter</b>
+    ⚡ <i>Dart / Flutter</i></b>
 
   #1998.04.07<br>
   ☆email 
