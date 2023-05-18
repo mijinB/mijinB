@@ -6,7 +6,8 @@
 <img src="https://img.shields.io/badge/flutter-FFA353?style=for-the-badge&logo=flutter&logoColor=black"></a>
 <img src="https://img.shields.io/badge/visual studio code-1F90FF?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-[!(http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/github-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+[![Facebook Badge](https://img.shields.io/badge/flutter-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza)
 Cross-Platform Developer
 ⊃ Dart / Flutter
 
