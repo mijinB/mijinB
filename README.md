@@ -11,10 +11,9 @@
   <b>
     <i>
       [Cross-Platform Developer]<br>
-      ⚡ Dart / Flutter
+      ⚡ Dart / Flutter<br><br>
     </i>
   </b>
-  
 
   1998.04.07<br>
   ☆Email&nbsp;&nbsp;<A href="https://www.google.co.kr/"> bmj13465@gmail.com </A><br>
