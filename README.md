@@ -15,9 +15,7 @@
     </i>
   </b>
 
-  <i>
-    1998.04.07<br>
-  </i>
+  1998.04.07<br>
   ☆Email&nbsp;&nbsp;<A href="https://www.google.co.kr/"> bmj13465@gmail.com </A><br>
   ☆Portfolio&nbsp;&nbsp;<A href="https://power-vertebra-e10.notion.site/2aa39d54c9634b5eba2905086dca4c9b"> power-vertebra-e10.notion.site/... </A><br>
   ☆Github&nbsp;&nbsp;<A href="https://github.com/mijinB"> github.com/mijinB </A><br>
