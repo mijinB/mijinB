@@ -1,4 +1,6 @@
+<div align=center>
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hi,+mijin+Baek+ෆ˙ᵕ˙ෆ&font=Kanit&size=20)](https://git.io/typing-svg)
+  </div>
 ### 백미진👋
 <img src="https://img.shields.io/badge/flutter-FFA353?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/dart-00C98E?style=for-the-badge&logo=dart&logoColor=white">
