@@ -8,6 +8,7 @@
 ![Facebook Badge](https://img.shields.io/badge/Dart-21BA45?style=flat-square&logo=dart&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Flutter-31CCEC?style=flat-square&logo=flutter&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Vue.js-F2C037?style=flat-square&logo=vue.js&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/Javascript-C10015?style=flat-square&logo=javascript&logoColor=white)
 <p>
   <b>
     <i>
