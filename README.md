@@ -9,6 +9,8 @@
 ![Facebook Badge](https://img.shields.io/badge/Flutter-31CCEC?style=flat-square&logo=flutter&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Vue.js-F2C037?style=flat-square&logo=vue.js&logoColor=black)
 ![Facebook Badge](https://img.shields.io/badge/Javascript-C10015?style=flat-square&logo=javascript&logoColor=white)
+<br>
+![Facebook Badge](https://img.shields.io/badge/Linux-1d1d1d?style=flat-square&logo=linux&logoColor=white)
 <p>
   <b>
     <i>
