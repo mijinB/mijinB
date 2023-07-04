@@ -10,7 +10,7 @@
 ![Facebook Badge](https://img.shields.io/badge/Vue.js-F2C037?style=flat-square&logo=vue.js&logoColor=black)
 ![Facebook Badge](https://img.shields.io/badge/Javascript-C10015?style=flat-square&logo=javascript&logoColor=white)
 <br>
-![Facebook Badge](https://img.shields.io/badge/Linux-FF7C3C?style=flat-square&logo=linux&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/Linux-FF671D?style=flat-square&logo=linux&logoColor=white)
 <p>
   <b>
     <i>
