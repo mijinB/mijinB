@@ -5,8 +5,8 @@
 
 ![Facebook Badge](https://img.shields.io/badge/VSCode-1F90FF?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Tech Blog Badge](http://img.shields.io/badge/Github-black?style=flat-square&logo=github&link=https://zzsza.github.io/)
-![Facebook Badge](https://img.shields.io/badge/Dart-3DC76E?style=flat-square&logo=dart&logoColor=white)
-![Facebook Badge](https://img.shields.io/badge/Flutter-FF5353?style=flat-square&logo=flutter&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/Dart-21BA45?style=flat-square&logo=dart&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/Flutter-31CCEC?style=flat-square&logo=flutter&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Vue.js-F2C037?style=flat-square&logo=vue.js&logoColor=white)
 <p>
   <b>
