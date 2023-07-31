@@ -20,8 +20,8 @@
 <br>
 ![Facebook Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mijinB)
+<br><br>
 
- <i>1998.04.07<br></i>
  <h3><b>⭐️Portfolio⭐️</b></h3>
  <p>
    <a href="https://power-vertebra-e10.notion.site/2aa39d54c9634b5eba2905086dca4c9b"> power-vertebra-e10.notion.site/... </a>
