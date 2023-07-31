@@ -3,14 +3,14 @@
 
 ### 백미진🌞
 
-![Facebook Badge](https://img.shields.io/badge/html5-29BC00?style=flat-square&logo=html5&logoColor=white)
-![Facebook Badge](https://img.shields.io/badge/css3-F7FF2C?style=flat-square&logo=css3&logoColor=black)
-![Facebook Badge](https://img.shields.io/badge/Javascript-C10015?style=flat-square&logo=javascript&logoColor=white)
-![Facebook Badge](https://img.shields.io/badge/Vue.js-F2C037?style=flat-square&logo=vue.js&logoColor=black)
-![Facebook Badge](https://img.shields.io/badge/Dart-21BA45?style=flat-square&logo=dart&logoColor=white)
-![Facebook Badge](https://img.shields.io/badge/Flutter-31CCEC?style=flat-square&logo=flutter&logoColor=white)
-![Facebook Badge](https://img.shields.io/badge/VSCode-1F90FF?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Tech Blog Badge](http://img.shields.io/badge/Github-black?style=flat-square&logo=github&link=https://zzsza.github.io/)
+![Facebook Badge](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=black)
+![Facebook Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=black)
+![Facebook Badge](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Tech Blog Badge](http://img.shields.io/badge/Github-181717?style=flat-square&logo=github&link=https://zzsza.github.io/)
 <p>
   <b>
     <i>
