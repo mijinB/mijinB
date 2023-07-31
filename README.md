@@ -21,7 +21,7 @@
 
   1998.04.07<br>
   ☆Portfolio&nbsp;&nbsp;<A href="https://power-vertebra-e10.notion.site/2aa39d54c9634b5eba2905086dca4c9b"> power-vertebra-e10.notion.site/... </A><br>
-  ☆blog&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="https://blog.naver.com/bkmij"> blog.naver.com/bkmij </A><br>
+  ☆blog&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="https://blog.naver.com/bkmij"> blog.naver.com/bkmij </A><br>
   ☆Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="https://www.google.co.kr"> bmj13465@gmail.com </A><br>
   ☆Github&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="https://github.com/mijinB"> github.com/mijinB </A><br>
 
