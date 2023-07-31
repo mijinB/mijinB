@@ -27,7 +27,7 @@
     <A href="https://power-vertebra-e10.notion.site/2aa39d54c9634b5eba2905086dca4c9b"> power-vertebra-e10.notion.site/...
     </A><br>
       ![Facebook Badge](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <A href="https://blog.naver.com/bkmij"> blog.naver.com/bkmij
     </A><br>
       ![Facebook Badge](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)
