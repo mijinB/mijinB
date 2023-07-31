@@ -2,14 +2,15 @@
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=Hello,+I'm+mijin+Baek+ෆ˙ᵕ˙ෆ&font=Kanit&size=20)
 
 ### 백미진☀️
+<br>
 
-  <b>
-    <i>
-      [Junior Developer]<br>
-    </i>
-    ⚡Stack👩‍💻
-    <br><br>
-  </b>
+<b>
+  <i>
+    [Junior Developer]<br>
+  </i>
+  ⚡Stack👩‍💻
+  <br><br>
+</b>
 
 ![Facebook Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
