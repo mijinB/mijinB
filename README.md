@@ -23,11 +23,11 @@
 <a href="https://github.com/mijinB"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mijinB"/></a>
 <br><br><br><br>
 
- <h3><b>⭐️Portfolio⭐️</b></h3>
+ <b>⭐️Portfolio⭐️</b>
  <p>
    <a href="https://power-vertebra-e10.notion.site/2aa39d54c9634b5eba2905086dca4c9b"> power-vertebra-e10.notion.site/... </a>
  </p>
- <h3><b>🧸Social🧸</b></h3>
+ <b>🧸Social🧸</b>
  <p>
    <a href="https://www.google.co.kr"><img src="https://img.shields.io/badge/bmj13465@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:https://www.google.co.kr"/></a>
    <a href="https://blog.naver.com/bkmij"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:https://blog.naver.com/bkmij"/></a>
