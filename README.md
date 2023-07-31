@@ -31,7 +31,7 @@
     <A href="https://blog.naver.com/bkmij"> blog.naver.com/bkmij
     </A><br>
       ![Facebook Badge](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <A href="https://www.google.co.kr"> bmj13465@gmail.com
     </A><br>
       ![Tech Blog Badge](http://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&link=https://zzsza.github.io/)
