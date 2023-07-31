@@ -23,18 +23,16 @@
 
  <i>1998.04.07<br></i>
  <h3 align="center"><b>⭐️Portfolio⭐️</b></h3>
- <br>
  <p align="center">
    <a href="https://power-vertebra-e10.notion.site/2aa39d54c9634b5eba2905086dca4c9b"> power-vertebra-e10.notion.site/...</a>
    <br>
    <a href="https://power-vertebra-e10.notion.site/2aa39d54c9634b5eba2905086dca4c9b"><img src="(https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:https://power-vertebra-e10.notion.site/2aa39d54c9634b5eba2905086dca4c9b"/></a>
  </p>
- <h3 align="center"><b>⭐️...⭐️</b></h3>
- <br>
+ <h3 align="center"><b>🔗Link🔗</b></h3>
  <p align="center">
    <a href="https://blog.naver.com/bkmij"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:https://blog.naver.com/bkmij"/></a>
-   <br>
    <a href="https://www.google.co.kr"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:https://www.google.co.kr"/></a>
+   <a href="https://github.com/mijinB"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=mailto:https://github.com/mijinB"/></a>
  </p>
  
    <b>⭐️Portfolio⭐️</b>
