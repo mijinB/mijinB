@@ -29,8 +29,8 @@
  </p>
  <h3><b>🧸Social🧸</b></h3>
  <p>
-   <a href="https://blog.naver.com/bkmij"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:https://blog.naver.com/bkmij"/></a>
    <a href="https://www.google.co.kr"><img src="https://img.shields.io/badge/bmj13465@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:https://www.google.co.kr"/></a>
+   <a href="https://blog.naver.com/bkmij"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:https://blog.naver.com/bkmij"/></a>
    <a href="https://github.com/mijinB"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=mailto:https://github.com/mijinB"/></a>
  </p>
 
