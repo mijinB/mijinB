@@ -3,8 +3,8 @@
 
 ### 백미진🌞
 
-![Facebook Badge](https://img.shields.io/badge/HTML5-29BC00?style=flat-square&logo=HTML5&logoColor=black)
-![Facebook Badge](https://img.shields.io/badge/CSS3-F7FF2C?style=flat-square&logo=CSS3&logoColor=black)
+![Facebook Badge](https://img.shields.io/badge/html5-29BC00?style=flat-square&logo=html5&logoColor=black)
+![Facebook Badge](https://img.shields.io/badge/css3-F7FF2C?style=flat-square&logo=css3&logoColor=black)
 ![Facebook Badge](https://img.shields.io/badge/Javascript-C10015?style=flat-square&logo=javascript&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Vue.js-F2C037?style=flat-square&logo=vue.js&logoColor=black)
 ![Facebook Badge](https://img.shields.io/badge/Dart-21BA45?style=flat-square&logo=dart&logoColor=white)
