@@ -21,8 +21,8 @@
 
   1998.04.07<br>
   ☆Portfolio&nbsp;&nbsp;<A href="https://power-vertebra-e10.notion.site/2aa39d54c9634b5eba2905086dca4c9b"> power-vertebra-e10.notion.site/... </A><br>
-  ☆![Facebook Badge](https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=naver&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="https://blog.naver.com/bkmij"> blog.naver.com/bkmij </A><br>
-  ☆Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="https://www.google.co.kr"> bmj13465@gmail.com </A><br>
+  ☆![Facebook Badge](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="https://blog.naver.com/bkmij"> blog.naver.com/bkmij </A><br>
+  ☆![Facebook Badge](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="https://www.google.co.kr"> bmj13465@gmail.com </A><br>
   ☆Github&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="https://github.com/mijinB"> github.com/mijinB </A><br>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmijinB&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
