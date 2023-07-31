@@ -22,6 +22,11 @@
   </b>
 
  <i>1998.04.07<br></i>
+ <h3 align="center"><b>⭐️Portfolio⭐️</b></h3>
+ <br>
+ <p align="center">
+   <a href="https://power-vertebra-e10.notion.site/2aa39d54c9634b5eba2905086dca4c9b"><img src="(https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:https://power-vertebra-e10.notion.site/2aa39d54c9634b5eba2905086dca4c9b"/></a>
+ </p>
    <b>⭐️Portfolio⭐️</b>
       &nbsp;&nbsp;
     <A href="https://power-vertebra-e10.notion.site/2aa39d54c9634b5eba2905086dca4c9b"> power-vertebra-e10.notion.site/...
