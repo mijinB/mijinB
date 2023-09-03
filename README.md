@@ -20,7 +20,9 @@
 ![Facebook Badge](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 <br><br>
-🔨Tools🔨
+<b>
+  🔨Tools🔨
+</b>
 <br><br>
 ![Facebook Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white)
