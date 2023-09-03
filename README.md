@@ -19,9 +19,7 @@
 ![Facebook Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
     <br><br>
     
-    <b>
-      🔨Tools🔨
-    </b>
+    🔨Tools🔨
     <br><br>
     
 ![Facebook Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
