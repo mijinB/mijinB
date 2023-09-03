@@ -1,14 +1,14 @@
 
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=Hello,+I'm+mijin+Baek+ෆ˙ᵕ˙ෆ&font=Kanit&size=20)
 
-### 백미진☀️
+### 백미진👩‍💻
 <br>
 
 <b>
   <i>
     [Junior Developer]<br>
   </i>
-  ⚡Stack👩‍💻
+  ⚡Stack⚡
   <br><br>
 </b>
 
@@ -19,6 +19,8 @@
 ![Facebook Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<br><br>
+🔨Tools🔨
 <br>
 ![Facebook Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white)
