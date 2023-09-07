@@ -32,7 +32,7 @@
 
  <b>⭐️Portfolio⭐️</b>
  <p>
-   <a href="/"> making it's... </a>
+   <a href=""> Making... </a>
  </p>
  <b>🧸Social🧸</b>
  <br><br>
