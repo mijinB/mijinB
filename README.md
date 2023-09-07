@@ -22,8 +22,8 @@
     🔨Tools🔨
     <br>
     
-![Facebook Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
     <a href="https://github.com/mijinB"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mijinB"/></a>
   </i>
 </b>
@@ -32,7 +32,7 @@
 
  <b>⭐️Portfolio⭐️</b>
  <p>
-   <a href="https://power-vertebra-e10.notion.site/2aa39d54c9634b5eba2905086dca4c9b"> power-vertebra-e10.notion.site/... </a>
+   <a href="/"> making it's... </a>
  </p>
  <b>🧸Social🧸</b>
  <br><br>
