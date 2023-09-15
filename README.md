@@ -17,7 +17,7 @@
 ![Facebook Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Facebook Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Facebook Badge](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=black)
+![Facebook Badge](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
     <br><br>
