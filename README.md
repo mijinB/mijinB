@@ -1,5 +1,5 @@
 
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=Hello,+I'm+mijin+Baek+ෆ˙ᵕ˙ෆ&font=Kanit&size=20)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=Hello,+I'm+mijin+Baek+ෆ˙ᵕ˙ෆ&font=Kanit&size=20&color=white)
 
 ### 백미진👩‍💻
 <br>
