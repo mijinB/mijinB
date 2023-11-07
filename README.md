@@ -36,7 +36,7 @@
 
  <b>⭐️Portfolio⭐️</b>
  <p>
-   <a href="https://github.com/mijinB"> I'm making it... </a>
+   <a href="https://mijinb.github.io/pofol_front_react/#/info"> Mijin Portfolio </a>
  </p>
  <b>🧸Social🧸</b>
  <br><br>
