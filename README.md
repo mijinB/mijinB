@@ -17,7 +17,7 @@
 ![Facebook Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Facebook Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Facebook Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=black)
+![Facebook Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/FramerMotion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white)
