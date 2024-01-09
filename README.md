@@ -4,13 +4,11 @@
 ### 백미진👩‍💻
 
 <b>
-  <i>
   [Junior Developer]
   <br><br><br>
 
-  ⚡Stack⚡
+  ⚡<i>Stack</i>⚡
   <br>
-  </i>
 </b>
 
   ⌨️web &nbsp; : &nbsp;
@@ -37,22 +35,20 @@
   <br><br>
 
 <b>
-  <i>
-  🔨Tools🔨
+  🔨<i>Tools</i>🔨
   <br><br>
     
 ![Facebook Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
   <a href="https://github.com/mijinB"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mijinB"/></a>
-  </i>
 </b>
 <br><br><br>
 
 
- <b><i>⭐️Portfolio⭐️</i></b>
+ ⭐️<b><i>Portfolio</i></b>⭐️
  <p>
    <a href="https://mijinb.github.io/pofol_front_react/#/info"> Mijin Portfolio </a>
  </p>
- <b><i>🧸Social🧸</i></b>
+ 🧸<b><i>Social</i></b>🧸
  <br><br>
  
  <p>
