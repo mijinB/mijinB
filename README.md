@@ -2,7 +2,6 @@
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=Hello,+I'm+BAEK+mijin+ෆ˙ᵕ˙ෆ&font=Kanit&size=20&color=white)
 
 ### 백미진👩‍💻
-<br>
 
 <b>
   <i>
@@ -38,7 +37,7 @@
 
 <b>
   🔨Tools🔨
-  <br>
+  <br><br>
     
 ![Facebook Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
   <a href="https://github.com/mijinB"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mijinB"/></a>
