@@ -11,6 +11,7 @@
 
   ⚡Stack⚡
   <br>
+</b>
 
   ⌨️web &nbsp; : &nbsp;
 ![Facebook Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -35,6 +36,7 @@
 ![Facebook Badge](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white)
   <br><br>
 
+<b>
   🔨Tools🔨
   <br>
     
