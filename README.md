@@ -6,7 +6,7 @@
 <b>
   <i>
   [Junior Developer]
-  <br><br>
+  <br><br><br>
 
   ⚡Stack⚡
   <br>
@@ -43,7 +43,7 @@
   <a href="https://github.com/mijinB"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mijinB"/></a>
   </i>
 </b>
-<br><br><br><br>
+<br><br><br>
 
 
  <b>⭐️Portfolio⭐️</b>
