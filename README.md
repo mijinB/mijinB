@@ -10,6 +10,7 @@
 
   ⚡Stack⚡
   <br>
+  </i>
 </b>
 
   ⌨️web &nbsp; : &nbsp;
@@ -36,6 +37,7 @@
   <br><br>
 
 <b>
+  <i>
   🔨Tools🔨
   <br><br>
     
