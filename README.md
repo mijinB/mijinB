@@ -54,7 +54,7 @@
    <a href="https://blog.naver.com/bkmij"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:https://blog.naver.com/bkmij"/></a>
    <a href="https://github.com/mijinB"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mijinB"/></a>
  </p>
- <br><br>
+ <br>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijinB&show_icons=true&theme=vision-friendly-dark)
 
