@@ -48,11 +48,11 @@
 <br><br><br>
 
 
- <b>⭐️Portfolio⭐️</b>
+ <b><i>⭐️Portfolio⭐️</i></b>
  <p>
    <a href="https://mijinb.github.io/pofol_front_react/#/info"> Mijin Portfolio </a>
  </p>
- <b>🧸Social🧸</b>
+ <b><i>🧸Social🧸</i></b>
  <br><br>
  
  <p>
