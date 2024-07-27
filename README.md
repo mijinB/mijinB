@@ -24,6 +24,9 @@
 ![Facebook Badge](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
 <br>
 
+⌨️backend &nbsp; : &nbsp;
+![Facebook Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 📱app &nbsp; : &nbsp;
 ![Facebook Badge](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
