@@ -21,6 +21,9 @@
 <br>
 
 ⌨️backend &nbsp; : &nbsp;
+![Facebook Badge](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 <br>
