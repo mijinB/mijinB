@@ -22,9 +22,9 @@
 
 ⌨️backend &nbsp; : &nbsp;
 ![Facebook Badge](https://img.shields.io/badge/JSP-4398CC?style=flat-square&logo=jsp&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/MyBatis-333333?style=flat-square&logo=mybatis&logoColor=white)
-![Facebook Badge](https://img.shields.io/badge/JSP-4398CC?style=flat-square&logo=jsp&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
