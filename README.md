@@ -21,6 +21,7 @@
 <br>
 
 ⌨️backend &nbsp; : &nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
