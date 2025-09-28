@@ -44,7 +44,7 @@
 <br><br><br>
 
 
- ⭐️<b><i>2023 frontend Portfolio</i>🐰</b>⭐️
+ ⭐️<b><i>Portfolio</i>🐰</b>⭐️
  <p>
    <a href="https://mijinb.github.io/pofol_front_react/#/info"> Mijin Portfolio </a>
  </p>
