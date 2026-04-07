@@ -11,50 +11,52 @@
   <br>
 </b>
 
-💻frontend &nbsp; : &nbsp;
-![Facebook Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Facebook Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+✱ &nbsp; Backend &nbsp; : &nbsp;
+![Facebook Badge](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/MyBatis-333333?style=flat-square&logo=mybatis&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/JSP-4398CC?style=flat-square&logo=jsp&logoColor=white)
+<br>
+
+✱ &nbsp; Database / Infra &nbsp; : &nbsp;
+![Facebook Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/AWS-DC682E?style=flat-square&logo=aws&logoColor=white)
+<br>
+
+✱ &nbsp; Frontend &nbsp; : &nbsp;
+![Facebook Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Facebook Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Facebook Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Facebook Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Facebook Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 <br>
 
-⌨️backend &nbsp; : &nbsp;
-![Facebook Badge](https://img.shields.io/badge/JSP-4398CC?style=flat-square&logo=jsp&logoColor=white)
-![Facebook Badge](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java&logoColor=white)
-![Facebook Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Facebook Badge](https://img.shields.io/badge/MyBatis-333333?style=flat-square&logo=mybatis&logoColor=white)
-![Facebook Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Facebook Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+✱ &nbsp; Tools &nbsp; : &nbsp;
+<a href="https://github.com/mijinB"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mijinB"/></a>
+![Facebook Badge](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Facebook Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<br>
+
+✱ &nbsp; Learning &nbsp; : &nbsp;
 ![Facebook Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-<br>
 
-📱app &nbsp; : &nbsp;
-![Facebook Badge](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Facebook Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-<br><br>
 
-🔨<b><i>Tools</i></b>🔨
-<br><br>
-
-![Facebook Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-<a href="https://github.com/mijinB"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mijinB"/></a>
 <br><br><br>
 
 
  ⭐️<b><i>Portfolio</i>🐰</b>⭐️
  <p>
-   <a href="https://mijinb.github.io/pofol_front_react/#/info"> Mijin Portfolio </a>
+   <a href="https://backend-portfolio-5q5.pages.dev/"> 백미진 | Backend Developer Portfolio </a>
  </p>
  🧸<b><i>Social</i></b>🧸
  <br><br>
  
  <p>
+   <a href="https://github.com/mijinB"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mijinB"/></a>
    <a href="https://www.google.co.kr"><img src="https://img.shields.io/badge/bmj13465@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:https://www.google.co.kr"/></a>
    <a href="https://blog.naver.com/bkmij"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:https://blog.naver.com/bkmij"/></a>
-   <a href="https://github.com/mijinB"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mijinB"/></a>
  </p>
  <br>
 
