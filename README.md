@@ -4,7 +4,7 @@
 ### 백미진👩‍💻
 
 <b>
-  [Junior Developer]
+  [Backend Developer]
   <br><br><br>
 
   ⚡<i>Stack</i>⚡
@@ -46,7 +46,7 @@
 
  ⭐️<b><i>Portfolio</i>🐰</b>⭐️
  <p>
-   <a href="https://backend-portfolio-5q5.pages.dev/"> 백미진 | Backend Developer Portfolio </a>
+   <a href="https://backend-portfolio-5q5.pages.dev/"> 백미진 포트폴리오 </a>
  </p>
  <br>
  🧸<b><i>Social</i></b>🧸
