@@ -8,7 +8,7 @@
   <br><br>
 
   ⚡<i>Stack</i>⚡
-  <br>
+  <br><br>
 </b>
 
 ✱ &nbsp; Backend &nbsp; : &nbsp;
@@ -41,7 +41,7 @@
 ✱ &nbsp; Learning &nbsp; : &nbsp;
 ![Facebook Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Facebook Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-<br>
+<br><br>
 
 
  ⭐️<b><i>Portfolio</i>🐰</b>⭐️
