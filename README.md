@@ -44,7 +44,7 @@
 <br><br>
 
 
- ⭐️<b><i>Portfolio</i>🐰</b>⭐️
+ ⭐️<b><i>Portfolio</i>🐯</b>⭐️
  <p>
    <a href="https://backend-portfolio-5q5.pages.dev/"> 백미진 포트폴리오 </a>
  </p>
