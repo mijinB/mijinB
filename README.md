@@ -5,10 +5,10 @@
 
 <b>
   [Junior Developer]
-  <br><br>
+  <br><br><br>
 
   ⚡<i>Stack</i>⚡
-  <br><br>
+  <br>
 </b>
 
 ✱ &nbsp; Backend &nbsp; : &nbsp;
